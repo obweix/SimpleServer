@@ -1,0 +1,9 @@
+﻿  main.cpp
+E:\code\cpp\SimpleServer\SimpleServer\thread_pool.h(71,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“std::thread::id”
+E:\code\cpp\SimpleServer\SimpleServer\thread_pool.h(92): message : 查看对正在编译的 类 模板 实例化“ThreadPool<T,t>”的引用
+E:\code\cpp\SimpleServer\SimpleServer\main.cpp(24,1): warning C4326: “main”的返回类型应为“int”而非“void”
+  simple_server.cpp
+E:\code\cpp\SimpleServer\SimpleServer\thread_pool.h(71,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“std::thread::id”
+E:\code\cpp\SimpleServer\SimpleServer\thread_pool.h(92): message : 查看对正在编译的 类 模板 实例化“ThreadPool<T,t>”的引用
+  正在生成代码...
+  SimpleServer.vcxproj -> E:\code\cpp\SimpleServer\SimpleServer\Debug\SimpleServer.exe

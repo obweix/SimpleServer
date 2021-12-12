@@ -1,0 +1,2 @@
+E:\code\cpp\SimpleServer\SimpleServer\Debug\SimpleServer.exe
+E:\code\cpp\SimpleServer\SimpleServer\Debug\SimpleServer.pdb
